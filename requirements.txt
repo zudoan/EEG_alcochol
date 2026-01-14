@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+joblib
+xgboost
+tensorflow
+torch
+torchvision
+transformers
+pillow
+fastapi
+uvicorn
+python-multipart
